@@ -6,7 +6,7 @@ The notebook dives into the analysis of climate change, utilizing the Berkeley E
 The primary aim is to analyze climate change through time series forecasting, focusing on temperature data. The project explores forecasting models to predict future trends based on historical climate data.
 
 ## Data Description
-The dataset used is from the Berkeley Earth Surface Temperature Study, which includes global land temperature reports from multiple sources. The data is pre-processed to handle missing values and inconsistencies.
+The dataset used is from the [Berkeley Earth Surface Temperature Study](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data), which includes global land temperature reports from multiple sources. The data is pre-processed to handle missing values and inconsistencies.
 
 ## Methodology
 The methodology involves:
